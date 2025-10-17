@@ -9,7 +9,7 @@
 OpenAI. (2025, October 17). ChatGPT (GPT-4o) [Large language model]. https://chat.openai.com/
 Google. (2025, October 17). Google Gemini [Large language model]. https://gemini.google.com/
 
-The following resources helped me understand the instructions and how to fix my test cases, and how to inpmlement the required code into City.java, CityList.java, and CityListTest.java It also hepled with implementations and the creation of javadocs in my lab.
+The following resources helped me understand the instructions and how to fix my test cases, and how to inpmlement the required code into City.java, CityList.java, and CityListTest.java. It also hepled with implementations and the creation of javadocs in my lab.
 
 
 List any resources used here, or simply put `N/A` if not applicable.

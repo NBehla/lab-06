@@ -1,4 +1,4 @@
-# CMPUT 301 : Lab 5 - Firestore
+# CMPUT 301 : Lab 5 - JUnit and TDD in Android, Javadoc
 
 ## Student Details
 
